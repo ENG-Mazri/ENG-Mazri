@@ -17,7 +17,7 @@
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
 ![react.js](https://img.shields.io/badge/-react.js-404040?style=for-the-badge&logo=react)
 ![express.js](https://img.shields.io/badge/-express.js-404040?style=for-the-badge&logo=express)
-![p5.js](https://img.shields.io/badge/-p5.js-404040?style=for-the-badge&logo=p5.js)
+![p5.js](https://img.shields.io/badge/-p5.js-404040?style=for-the-badge&logo=p5.js&logoColor=ff0066)
 ![d3.js](https://img.shields.io/badge/-d3.js-404040?style=for-the-badge&logo=d3.js)
 ![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
 ![webpack](https://img.shields.io/badge/-webpack-404040?style=for-the-badge&logo=webpack)
