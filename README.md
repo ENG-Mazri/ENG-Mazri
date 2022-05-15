@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My name in Mazri Abderrahmane 😄 and this is where you can find my development projects!⚡
 
-#### Tech I use:
+#### Tech I use/used:
 
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3&logoColor=4da6ff)
@@ -13,7 +13,6 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-404040?style=for-the-badge&logo=Postgresql)
 ![Framework](https://img.shields.io/badge/-Framework-404040?style=for-the-badge&logo=dotnet&logoColor=944dff)
 ![postman](https://img.shields.io/badge/-Postman-404040?style=for-the-badge&logo=postman)
-![revit](https://img.shields.io/badge/-revit-404040?style=for-the-badge&logo=autodesk)
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
 ![react.js](https://img.shields.io/badge/-react.js-404040?style=for-the-badge&logo=react)
 ![express.js](https://img.shields.io/badge/-express.js-404040?style=for-the-badge&logo=express)
@@ -25,6 +24,9 @@
 ![git](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git)
 ![vscode](https://img.shields.io/badge/-vscode-404040?style=for-the-badge&logo=visualstudiocode&logoColor=4da6ff)
 ![visualstudio](https://img.shields.io/badge/-visualstudio-404040?style=for-the-badge&logo=visualstudio&logoColor=b366ff)
+![revit](https://img.shields.io/badge/-revit-404040?style=for-the-badge&logo=autodesk)
+![illustrator](https://img.shields.io/badge/-illustrator-404040?style=for-the-badge&logo=adobeillustrator)
+![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 <!--
 **ENG-Mazri/ENG-Mazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
