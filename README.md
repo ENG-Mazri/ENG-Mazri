@@ -20,6 +20,9 @@
 ![p5.js](https://img.shields.io/badge/-p5.js-404040?style=for-the-badge&logo=p5.js)
 ![d3.js](https://img.shields.io/badge/-d3.js-404040?style=for-the-badge&logo=d3.js)
 ![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
+![webpack](https://img.shields.io/badge/-webpack-404040?style=for-the-badge&logo=webpack)
+![leaflet](https://img.shields.io/badge/-leaflet.js-404040?style=for-the-badge&logo=leaflet&logoColor=70db70)
+![git](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git)
 ![vscode](https://img.shields.io/badge/-vscode-404040?style=for-the-badge&logo=visualstudiocode&logoColor=4da6ff)
 ![visualstudio](https://img.shields.io/badge/-visualstudio-404040?style=for-the-badge&logo=visualstudio&logoColor=b366ff)
 <!--
