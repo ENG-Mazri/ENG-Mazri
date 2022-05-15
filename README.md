@@ -3,11 +3,10 @@
 
 #### Tech I use/used:
 
-![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
+![Javascript](https://img.shields.io/badge/-Javascript-404040?style=for-the-badge&logo=Javascript)
 ![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3&logoColor=4da6ff)
 ![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5)
-![webpack](https://img.shields.io/badge/-webpack-404040?style=for-the-badge&logo=webpack)
-![Javascript](https://img.shields.io/badge/-Javascript-404040?style=for-the-badge&logo=Javascript)
+![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![Sass](https://img.shields.io/badge/-Sass-404040?style=for-the-badge&logo=Sass)
 ![Firebase](https://img.shields.io/badge/-Firebase-404040?style=for-the-badge&logo=Firebase)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-404040?style=for-the-badge&logo=Postgresql)
