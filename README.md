@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My name in Mazri Abderrahmane 😄 and this is where you can find my development projects!⚡
 
-Tech I use:
+# Tech I use:
 
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3&logoColor=4da6ff)
