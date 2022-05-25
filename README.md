@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name in Mazri Abderrahmane 😄 and this is where you can find my development projects!⚡
+- My name in Mazri Abderrahmane 😄 and this is where you can find my projects!⚡
 
 #### Tech I use/used:
 
