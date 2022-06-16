@@ -10,6 +10,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-404040?style=for-the-badge&logo=Sass)
 ![Firebase](https://img.shields.io/badge/-Firebase-404040?style=for-the-badge&logo=Firebase)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-404040?style=for-the-badge&logo=Postgresql)
+![CouchDb](https://img.shields.io/badge/-Couchdb-404040?style=for-the-badge&logo=apachecouchdb&logoColor=ff3333)
 ![Framework](https://img.shields.io/badge/-Framework-404040?style=for-the-badge&logo=dotnet&logoColor=944dff)
 ![postman](https://img.shields.io/badge/-Postman-404040?style=for-the-badge&logo=postman)
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
