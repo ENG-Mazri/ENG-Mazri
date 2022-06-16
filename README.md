@@ -8,6 +8,7 @@
 ![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![Sass](https://img.shields.io/badge/-Sass-404040?style=for-the-badge&logo=Sass)
+![graphql](https://img.shields.io/badge/-graphql-404040?style=for-the-badge&logo=graphql&logoColor=ff3399)
 ![Firebase](https://img.shields.io/badge/-Firebase-404040?style=for-the-badge&logo=Firebase)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-404040?style=for-the-badge&logo=Postgresql)
 ![CouchDb](https://img.shields.io/badge/-Couchdb-404040?style=for-the-badge&logo=apachecouchdb&logoColor=ff3333)
