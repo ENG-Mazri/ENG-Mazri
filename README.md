@@ -1,5 +1,4 @@
-
-![wallpaper](https://user-images.githubusercontent.com/84850871/174456886-ff4c6658-7ee8-4fd9-a809-f96dff6902ac.png)
+![re](https://user-images.githubusercontent.com/84850871/174457199-5f715536-a906-4132-ad54-9fac923874a2.png)
 
 
 ### Hi there 👋
