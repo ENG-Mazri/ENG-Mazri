@@ -28,6 +28,7 @@
 ![Rollup](https://img.shields.io/badge/-rollup-404040?style=for-the-badge&logo=rollup.js)
 ![leaflet](https://img.shields.io/badge/-leaflet.js-404040?style=for-the-badge&logo=leaflet&logoColor=70db70)
 ![git](https://img.shields.io/badge/-git-404040?style=for-the-badge&logo=git)
+![heroku](https://img.shields.io/badge/-heroku-404040?style=for-the-badge&logo=heroku&logoColor=b366ff)
 ![vscode](https://img.shields.io/badge/-vscode-404040?style=for-the-badge&logo=visualstudiocode&logoColor=4da6ff)
 ![visualstudio](https://img.shields.io/badge/-visualstudio-404040?style=for-the-badge&logo=visualstudio&logoColor=b366ff)
 ![revit](https://img.shields.io/badge/-revit-404040?style=for-the-badge&logo=autodesk)
