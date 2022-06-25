@@ -35,6 +35,12 @@
 ![illustrator](https://img.shields.io/badge/-illustrator-404040?style=for-the-badge&logo=adobeillustrator)
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
+#### Learning
+- Coding principles
+- Graph Algorithms
+- SQL batabase ddesign
+- IFC
+
 <!--
 **ENG-Mazri/ENG-Mazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
