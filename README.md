@@ -39,6 +39,7 @@
 - Software Development Principles
 - Graph Algorithms
 - SQL batabase design
+- Node.js child-processes
 - IFC
 
 <!--
