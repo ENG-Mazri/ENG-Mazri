@@ -36,7 +36,7 @@
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
 #### Learning
-- Coding principles
+- Software Development Principles
 - Graph Algorithms
 - SQL batabase ddesign
 - IFC
