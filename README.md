@@ -38,7 +38,7 @@
 #### Learning
 - Software Development Principles
 - Graph Algorithms
-- SQL batabase ddesign
+- SQL batabase design
 - IFC
 
 <!--
