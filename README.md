@@ -35,7 +35,7 @@
 ![illustrator](https://img.shields.io/badge/-illustrator-404040?style=for-the-badge&logo=adobeillustrator)
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
-#### Learning
+#### Learning at the moment
 - Software Development Principles
 - Graph Algorithms
 - SQL batabase design
