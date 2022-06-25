@@ -7,6 +7,7 @@
 #### Tech I use/used:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-404040?style=for-the-badge&logo=Javascript)
+![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
 ![css3](https://img.shields.io/badge/-css3-404040?style=for-the-badge&logo=css3&logoColor=4da6ff)
 ![html5](https://img.shields.io/badge/-html5-404040?style=for-the-badge&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
