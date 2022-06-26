@@ -38,7 +38,7 @@
 #### Learning at the moment
 - Software Development Principles
 - Graph Algorithms
-- SQL batabase design
+- SQL database design
 - Node.js child-processes
 - IFC
 
