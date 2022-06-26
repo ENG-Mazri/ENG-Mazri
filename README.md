@@ -31,7 +31,7 @@
 ![heroku](https://img.shields.io/badge/-heroku-404040?style=for-the-badge&logo=heroku&logoColor=b366ff)
 ![vscode](https://img.shields.io/badge/-vscode-404040?style=for-the-badge&logo=visualstudiocode&logoColor=4da6ff)
 ![visualstudio](https://img.shields.io/badge/-visualstudio-404040?style=for-the-badge&logo=visualstudio&logoColor=b366ff)
-![revit](https://img.shields.io/badge/-revit api-404040?style=for-the-badge&logo=autodesk)
+![revit](https://img.shields.io/badge/-revit_api-404040?style=for-the-badge&logo=autodesk)
 ![illustrator](https://img.shields.io/badge/-illustrator-404040?style=for-the-badge&logo=adobeillustrator)
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
