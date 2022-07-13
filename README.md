@@ -37,6 +37,7 @@
 
 #### Learning at the moment
 - Software Development Principles
+- Microservises
 - Graph Algorithms
 - SQL database design
 - Node.js child-processes
