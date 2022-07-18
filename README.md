@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![Sass](https://img.shields.io/badge/-Sass-404040?style=for-the-badge&logo=Sass)
 ![graphql](https://img.shields.io/badge/-graphql-404040?style=for-the-badge&logo=graphql&logoColor=ff3399)
+![docker](https://img.shields.io/badge/-docker-404040?style=for-the-badge&logo=docker&logoColor=ff3399)
 ![apollographql](https://img.shields.io/badge/-apollographql-404040?style=for-the-badge&logo=apollographql)
 ![Firebase](https://img.shields.io/badge/-Firebase-404040?style=for-the-badge&logo=Firebase)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-404040?style=for-the-badge&logo=Postgresql)
