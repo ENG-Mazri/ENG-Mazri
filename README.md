@@ -39,7 +39,7 @@
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
 #### Learning at the moment
-- Microservices
+- Scaling Node.js applications
 - IFC
 
 <!--
