@@ -41,7 +41,8 @@
 #### Learning at the moment
 - Scaling Node.js applications
 - IFC
-- Shaders
+- GLSL
+- Path tracing
 
 <!--
 **ENG-Mazri/ENG-Mazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
