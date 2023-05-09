@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- My name in Mazri Abderrahmane, I studied structural engineering, and I'm a self-taught software engineer who works at Tangl 😄
+- My name is Mazri Abderrahmane, I studied structural engineering, and I'm a self-taught software engineer who works at Tangl 😄
 
 #### Tech I use on daily basis:
 
