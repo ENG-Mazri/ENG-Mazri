@@ -6,7 +6,7 @@
 
 #### Tech I use on daily basis:
 
-![vue.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=vue.js)
+![vue.js](https://img.shields.io/badge/-vue.js-404040?style=for-the-badge&logo=vue.js)
 ![node.js](https://img.shields.io/badge/-node.js-404040?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![Sass](https://img.shields.io/badge/-Sass-404040?style=for-the-badge&logo=Sass)
