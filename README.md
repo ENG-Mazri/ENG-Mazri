@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- My name in Mazri Abderrahmane 😄 and this is where you can find my projects!⚡
+- My name in Mazri Abderrahmane, I studied structural engineering, and I'm a self-taught software engineer who works at Tangl 😄
 
 #### Tech I use on daily basis:
 
@@ -23,6 +23,7 @@
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
 #### Learning at the moment
+- Generative design
 - Scaling Node.js applications
 - IFC
 - GLSL
