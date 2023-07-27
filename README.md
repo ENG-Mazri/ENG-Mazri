@@ -26,7 +26,6 @@
 #### Learning at the moment
 - Generative design
 - Scaling Node.js applications
-- IFC
 - GLSL
 - Path tracing
 
