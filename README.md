@@ -26,6 +26,7 @@
 #### Learning at the moment
 - Generative design
 - Scaling Node.js applications
+- Brain.js
 - GLSL
 - Path tracing
 
