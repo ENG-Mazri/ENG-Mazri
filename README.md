@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/-Python-404040?style=for-the-badge&logo=python)
 ![Sass](https://img.shields.io/badge/-Sass-404040?style=for-the-badge&logo=Sass)
 ![docker](https://img.shields.io/badge/-docker-404040?style=for-the-badge&logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-404040?style=for-the-badge&logo=Firebase)
 ![Framework](https://img.shields.io/badge/-.net-404040?style=for-the-badge&logo=dotnet&logoColor=944dff)
 ![postman](https://img.shields.io/badge/-Postman-404040?style=for-the-badge&logo=postman)
 ![three.js](https://img.shields.io/badge/-three.js-404040?style=for-the-badge&logo=three.js)
