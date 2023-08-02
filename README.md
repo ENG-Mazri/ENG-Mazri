@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- My name is Mazri Abderrahmane, I studied structural engineering, and now I'm a self-taught software developer 😄
+- My name is Mazri Abderrahmane, I studied structural engineering, and now I'm a self-taught software developer 😄 
 
 #### Tech I use on daily basis:
 
