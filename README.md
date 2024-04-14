@@ -5,7 +5,7 @@
 - My name is Mazri Abderrahmane, I studied structural engineering, and now I'm a self-taught software developer 😄
 
 #### Personal projects
-- bimblox, at bimblox.com (or temporarly https://bimblox-021023.web.app).
+- [bimblox](https://bimblox-021023.web.app).
 - DSE - Design Space Explorer, demo video https://www.youtube.com/watch?v=ZtRvm_P0C6w .
 - cli-ifcjs, npm package (not supported).
 
