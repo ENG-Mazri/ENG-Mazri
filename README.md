@@ -5,7 +5,7 @@
 - My name is Mazri Abderrahmane, I studied Structural Engineering, now I'm a (self-taught) full-time BIM Software Developer 😄
 
 #### Personal projects
-- [bimblox](https://bimblox-021023.web.app). - IFC toolbox. 
+- [bimblox](https://bimblox.app). - IFC toolbox. 
 - DSE - Design Space Explorer, demo video https://www.youtube.com/watch?v=ZtRvm_P0C6w .
 - cli-ifcjs, npm package (not supported).
 
