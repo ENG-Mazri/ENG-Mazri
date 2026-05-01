@@ -27,11 +27,6 @@
 ![revit](https://img.shields.io/badge/-revit_api-404040?style=for-the-badge&logo=autodesk)
 ![indesign](https://img.shields.io/badge/-indesign-404040?style=for-the-badge&logo=adobeindesign)
 
-#### Learning at the moment
-- Evolutionary algorithms
-- GLSL
-- Rust
-- IFC5
 
 <!--
 **ENG-Mazri/ENG-Mazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
