@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-- My name is Mazri Abderrahmane, I studied Structural Engineering, now I'm a (self-taught) full-time BIM Software Developer 😄
+I’m Mazri Abderrahmane, with a background in Structural Engineering, now a self-taught BIM Software Developer building tools for openBIM and beyond.
 
 #### Personal projects
 - [bimblox](https://bimblox.app). - IFC toolbox. 
